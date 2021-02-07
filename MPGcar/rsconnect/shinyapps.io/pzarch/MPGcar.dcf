@@ -1,0 +1,12 @@
+name: MPGcar
+title: MPGcar
+username:
+account: pzarch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3596335
+bundleId: 4192294
+url: https://pzarch.shinyapps.io/MPGcar/
+when: 1612713410.735
+asMultiple: FALSE
+asStatic: FALSE

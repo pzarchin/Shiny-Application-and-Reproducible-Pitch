@@ -1,0 +1,38 @@
+---
+title: "MPGcar Shiny app"
+author: "P.Z"
+date: "2/7/2021"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## MPG Car Application
+
+This presentation is created to show you how the MPG Car application work. 
+
+## Data
+
+The mtcars data set is used in this app.
+```{r , echo = TRUE}
+summary(mtcars)
+```
+
+## Functionality
+The application can help you to see how number of cylinders, type of transmission and number of gears of cars are affecting the MPG (Miles Per Gallon) of cars.
+
+You can use the drop down list to select your desired type of variable.
+![Interaction](Capture.png)
+
+## Example screenshot
+
+![Example](Capture1.png)
+
+
+
+
